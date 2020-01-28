@@ -2,10 +2,10 @@
 Print four different star patterns.
 
 1. First Pattern
-*
-**
-***
-****
+\*
+\**
+\***
+\****
 
 2. Second Pattern
 ****
