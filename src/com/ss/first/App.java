@@ -4,7 +4,7 @@
 package com.ss.first;
 
 /**
- * @author sauravbhuju
+ * @author srv-max
  *
  */
 public class App {
